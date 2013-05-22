@@ -20,7 +20,7 @@ var flatiron = require('flatiron'),
 app.use(flatiron.plugins.resourceful);
 app.resources.User = app.define('user');
 
-/* Server user as restful resource. */
+/* Serve user as restful resource. */
 
 app.use(restfulExpress);
 ...
