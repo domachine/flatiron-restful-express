@@ -1,0 +1,33 @@
+{
+  "name": "flatiron-restful-express",
+  "version": "0.0.0",
+  "description": "Use restful with flatiron and express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/domachine/flatiron-restful-express.git"
+  },
+  "keywords": [
+    "flatiron",
+    "restful",
+    "express"
+  ],
+  "author": "Dominik Burgdörfer <dominik.burgdoerfer@mikanda.de>",
+  "license": "BSD",
+  "devDependencies": {
+    "should": "~1.2.2",
+    "flatiron-express": "~0.1.0",
+    "express": "~3.2.4",
+    "mocha": "~1.9.0",
+    "sinon": "~1.7.2",
+    "flatiron": "~0.3.5"
+  },
+  "dependencies": {
+    "director": "~1.1.10",
+    "resourceful": "~0.2.2",
+    "restful": "~0.2.2"
+  }
+}
