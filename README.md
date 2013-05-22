@@ -15,7 +15,7 @@ the next middleware if a resource cannot be routed.
 
 ```js
 var flatiron = require('flatiron'),
-    restfulExpress = require('restful-express
+    restfulExpress = require('restful-express'),
     app = flatiron.app;
 app.use(flatiron.plugins.resourceful);
 app.resources.User = app.define('user');
