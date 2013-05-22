@@ -1,6 +1,6 @@
 {
   "name": "flatiron-restful-express",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Use restful with flatiron and express.",
   "main": "index.js",
   "scripts": {
