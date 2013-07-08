@@ -1,5 +1,7 @@
 # flatiron-restful-express
 
+**Support dropped since flatiron seems to be dead**
+
 The purpose of this `flatiron` plugin is to integrate `restful` with `express`
 embedded in a `flatiron` application.
 
